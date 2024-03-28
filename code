@@ -10,6 +10,7 @@ def countdown(time_sec):
 
     print("stop countdown")
 
+# test code - Ayu
 
 countdown(10)
 
