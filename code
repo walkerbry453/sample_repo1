@@ -10,6 +10,6 @@ def countdown(time_sec):
 
     print("stop countdown")
 
-
+#Passing number through function
 countdown(10)
 
