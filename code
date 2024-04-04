@@ -13,3 +13,4 @@ def countdown(time_sec):
 
 countdown(100)
 
+new_variable = 'Hello, World!'
