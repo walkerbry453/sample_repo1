@@ -1,6 +1,7 @@
 import time
 
 def countdown(time_sec):
+    print("Self destruct sequence initiated")
     while time_sec:
         mins, secs = divmod(time_sec, 30)
         timeformat = '{:02d}:{:02d}'.format(mins, secs)
