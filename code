@@ -11,5 +11,8 @@ def countdown(time_sec):
     print("SURPRISE!!!!!!!!!!")
 
 
-countdown(100)
+
+countdown(10)
+
+
 
