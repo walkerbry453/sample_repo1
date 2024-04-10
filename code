@@ -9,7 +9,7 @@ def countdown(time_sec):
         time_sec -= 1
 
 
-    print("SURPRISE!!!!!!!!!!")
+    print("SURPRISE!!!!!")
 
 
 
